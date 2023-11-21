@@ -1,0 +1,38 @@
+.detail-container{
+	width:60%;
+	margin:0 auto;
+	margin-top: 60px;
+}
+
+#logo-image {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    transform: translate(-700%, 50%);
+}
+
+.header {
+    text-align: center;
+    height: 200px;
+}
+
+.detail-select, .name, .all {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+}
+
+.nav-button {
+    color: black; 
+    padding: 14px 5px; 
+    margin: 8px 0; 
+    border: none; 
+    cursor: pointer;
+    width: 10%; 
+}
+
+.nav-button:hover {
+    opacity:0.8; 
+}

@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.row *{
+	margin:0 10px
+}
